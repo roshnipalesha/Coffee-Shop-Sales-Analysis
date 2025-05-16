@@ -1,5 +1,3 @@
-# Coffee-Shop-Sales-Analysis
-
 # ☕ Coffee Shop Sales Analysis
 
 This project presents a comprehensive data analysis of sales performance at a coffee shop using Microsoft Excel, Power Query, and DAX-based measures. The goal is to extract actionable insights from raw transaction data to aid decision-making regarding product sales, customer behavior, and shop performance.
@@ -14,7 +12,7 @@ This project presents a comprehensive data analysis of sales performance at a co
 
 ## 📊 Dashboard Snapshot
 
-![Dashboard](https://github.com/yourusername/your-repo-name/blob/main/Dashboard%20Image.png)
+![Dashboard](https://github.com/roshnipalesha/Coffee-Shop-Sales-Analysis/blob/main/Dashboard.png)
 
 > Replace the above URL with the actual raw GitHub image URL after uploading `Dashboard Image.png` to your repository.
 
