@@ -14,7 +14,7 @@ This project presents a comprehensive data analysis of sales performance at a co
 
 ![Dashboard](https://github.com/roshnipalesha/Coffee-Shop-Sales-Analysis/blob/main/Dashboard.png)
 
-> Replace the above URL with the actual raw GitHub image URL after uploading `Dashboard Image.png` to your repository.
+> To Interact with the dynamic features of this Dashboard (such as Slicers), Please view the "Raw Data (Excel File)" located in this repository.
 
 ---
 
