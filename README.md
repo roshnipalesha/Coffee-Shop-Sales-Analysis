@@ -83,5 +83,5 @@ This project presents a comprehensive data analysis of sales performance at a co
 If you have any suggestions or queries, feel free to connect:
 
 - **GitHub:** [roshnipalesha](https://github.com/roshnipalesha)
-- **Email:** your.email@example.com
+- **Email:** rpalesha070@gmail.com
 .
